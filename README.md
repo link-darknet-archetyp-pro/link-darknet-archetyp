@@ -68,4 +68,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  Tuesday 24 June 2025 Auth links
+
+
+Update:  26.06.2025
