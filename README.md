@@ -80,4 +80,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Login URLs
+
+
+Update:  24.07.2025 11:57:18 link is functioning
